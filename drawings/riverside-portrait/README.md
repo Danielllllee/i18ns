@@ -9,6 +9,7 @@
 | 文件 | 内容 |
 | --- | --- |
 | `drawing.png` | 成品插画（位图） |
+| `drawing.jpg` | 手机版：JPG，约 0.96 MB，和 PNG 同尺寸，画质几乎无差别（PSNR 42.9 dB） |
 | `drawing.svg` | 同一幅画的矢量源文件，可无损放大或在 Illustrator / Inkscape / Figma 里继续改 |
 | `run.sh` | 从原照片重新生成整幅画 |
 | `src/prepare.py` | 第 1 步：色彩空间转换（Display P3 → sRGB）、人物抠像、各层地貌分界线、天空与云的提取 |
