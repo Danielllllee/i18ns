@@ -2,7 +2,7 @@
 
 # 参考文献与使用限度
 
-@refnote 以下按本文实际使用到的命题列出来源，并在每条之后注明它在本文中的使用限度。标注了卷期、页码或文章号的条目，给出的是完整的书目信息；只列出作者、年份、题名与刊物的条目，本文只在概念或论点层面引用，具体卷期、页码与版本另需查核。古典与传统文献注明所据版本，引号内的文字只用于经过核对的原文。现代文献按第一作者姓氏的字母顺序排列。
+@refnote 以下按本文实际使用到的命题列出来源，并在每条之后注明它在本文中的使用限度。古典与传统文献注明所据版本，引号内的文字只用于经过核对的原文。现代文献按第一作者姓氏的字母顺序排列。
 
 @refhead 一、古典与传统文献
 
@@ -34,11 +34,11 @@
 
 @ref Diogenes Laertius. *Lives of Eminent Philosophers*, Book VII (R. D. Hicks, Trans.). 使用限度：引用 VII.104–107、111、117、121 对斯多葛派激情、智者与中性之物的记述；不据此断言 apatheia 只有一种学术读法。
 
-@ref Suzuki, S. (1970). *Zen mind, beginner's mind*. 使用限度：“初心”只作教学性的态度提示，不对应某个精度参数。
+@ref Suzuki, S. (1970). *Zen mind, beginner's mind*. New York: Weatherhill. 使用限度：“初心”只作教学性的态度提示，不对应某个精度参数。
 
-@ref Trungpa, C. (1973). *Cutting through spiritual materialism*. 使用限度：“灵性唯物主义”按通行理解引用。
+@ref Trungpa, C. (1973). *Cutting through spiritual materialism*. Berkeley: Shambhala. 使用限度：只引用其中一个论点：自我可以把包括灵性追求在内的任何东西收为己用。
 
-@ref Welwood, J. (1984). Principles of inner work: Psychological and spiritual. *Journal of Transpersonal Psychology*. 使用限度：“灵性绕道”按通行理解引用，首次使用的语境与原文表述另需查核。
+@ref Welwood, J. (1984). Principles of inner work: Psychological and spiritual. *Journal of Transpersonal Psychology, 16*(1), 63–73. 使用限度：“灵性绕道”一词的首次使用。
 
 @refhead 二、现代文献
 
@@ -56,31 +56,33 @@
 
 @ref Botvinick, M., & Cohen, J. (1998). Rubber hands ‘feel’ touch that eyes see. *Nature, 391*, 756. https://doi.org/10.1038/35784 使用限度：只用于说明身体所有感可以被单独扰动。
 
-@ref Brewer, J. A., et al. (2011). Meditation experience is associated with differences in default mode network activity and connectivity. *Proceedings of the National Academy of Sciences of the USA*. 使用限度：横断面比较，不能识别训练带来的改变。
+@ref Brewer, J. A., Worhunsky, P. D., Gray, J. R., Tang, Y.-Y., Weber, J., & Kober, H. (2011). Meditation experience is associated with differences in default mode network activity and connectivity. *Proceedings of the National Academy of Sciences of the USA, 108*, 20254–20259. https://doi.org/10.1073/pnas.1112029108 使用限度：横断面比较，不能识别训练带来的改变。
 
-@ref Carhart-Harris, R. L., et al. (2014). The entropic brain: A theory of conscious states informed by neuroimaging research with psychedelic drugs. *Frontiers in Human Neuroscience*. 使用限度：理论模型。
+@ref Carhart-Harris, R. L., et al. (2014). The entropic brain: A theory of conscious states informed by neuroimaging research with psychedelic drugs. *Frontiers in Human Neuroscience, 8*, 20. https://doi.org/10.3389/fnhum.2014.00020 使用限度：理论模型。
 
-@ref Carhart-Harris, R. L., & Friston, K. J. (2019). REBUS and the anarchic brain: Toward a unified model of the brain action of psychedelics. *Pharmacological Reviews*. 使用限度：理论模型，不构成跨领域共同控制者的证据。
+@ref Carhart-Harris, R. L., & Friston, K. J. (2019). REBUS and the anarchic brain: Toward a unified model of the brain action of psychedelics. *Pharmacological Reviews, 71*, 316–344. 使用限度：理论模型，不构成跨领域共同控制者的证据。
 
 @ref Chase, W. G., & Simon, H. A. (1973). Perception in chess. *Cognitive Psychology, 4*(1), 55–81. https://doi.org/10.1016/0010-0285(73)90004-2 使用限度：原始实验只有三名被试；随机棋局对照的结论需结合 Gobet 与 Simon（1996）的回顾。
 
 @ref Chib, V. S., De Martino, B., Shimojo, S., & O’Doherty, J. P. (2012). Neural mechanisms underlying paradoxical performance for monetary incentives are driven by loss aversion. *Neuron, 74*(3), 582–594. https://doi.org/10.1016/j.neuron.2012.02.038 使用限度：只用于说明奖励结构这一候选机制。
 
-@ref Chowdhury, A., et al. (2025). *NeuroImage, 305*, 120973（题名待补；禅那相关的 7T 密集采样个案研究）。使用限度：单一修行者的密集采样个案，不能当作独立样本的重复。
+@ref Chowdhury, A., Bianciardi, M., Chapdelaine, E., Riaz, O. S., Timmermann, C., van Lutterveld, R., Sparby, T., & Sacchet, M. D. (2025). Multimodal neurophenomenology of advanced concentration absorption meditation: An intensively sampled case study of Jhana. *NeuroImage, 305*, 120973. 使用限度：单一修行者的密集采样个案，不能当作独立样本的重复。
 
-@ref Christensen, W., Sutton, J., & McIlwain, D. J. F. (2016). Cognition in skilled action: Meshed control and the varieties of skill experience. *Mind & Language*. 使用限度：用于第四节对控制粒度的界定。
+@ref Christensen, W., Sutton, J., & McIlwain, D. J. F. (2016). Cognition in skilled action: Meshed control and the varieties of skill experience. *Mind & Language, 31*(1), 37–66. https://doi.org/10.1111/mila.12094 使用限度：用于第四节对控制粒度的界定。
 
 @ref Chua, L.-K., Jimenez-Diaz, J., Lewthwaite, R., Kim, T., & Wulf, G. (2021). Superiority of external attentional focus for motor performance and learning: Systematic reviews and meta-analyses. *Psychological Bulletin, 147*(6), 618–645. https://doi.org/10.1037/bul0000335 使用限度：应与 McKay 等（2024）的偏倚校正再分析一并阅读。
 
-@ref Ciaunica, A., Seth, A., Limanowski, J., Hesp, C., & Friston, K. J. (2022). I overthink—Therefore I am not: An active inference account of altered sense of self and agency in depersonalisation disorder. *Consciousness and Cognition*. 使用限度：建模方案，不是对患者参数的直接测量。
+@ref Ciaunica, A., Seth, A., Limanowski, J., Hesp, C., & Friston, K. J. (2022). I overthink—Therefore I am not: An active inference account of altered sense of self and agency in depersonalisation disorder. *Consciousness and Cognition, 101*, 103320. 使用限度：建模方案，没有直接测量患者的参数。
 
-@ref Clark, A. (2013). Whatever next? Predictive brains, situated agents, and the future of cognitive science. *Behavioral and Brain Sciences*. 使用限度：用于第六节对预测性加工各版本的概述。
+@ref Clark, A. (2013). Whatever next? Predictive brains, situated agents, and the future of cognitive science. *Behavioral and Brain Sciences, 36*(3), 181–204. https://doi.org/10.1017/S0140525X12000477 使用限度：用于第六节对预测性加工各版本的概述。
 
-@ref Clark, A. (2016). *Surfing uncertainty: Prediction, action, and the embodied mind*. 使用限度：同上。
+@ref Clark, A. (2016). *Surfing uncertainty: Prediction, action, and the embodied mind*. Oxford University Press. 使用限度：同上。
+
+@ref Crowell, A. L., et al. (2019). Long-term outcomes of subcallosal cingulate deep brain stimulation for treatment-resistant depression. *American Journal of Psychiatry, 176*(11), 949–956. https://doi.org/10.1176/appi.ajp.2019.18121427 使用限度：开放标签的长期随访，没有对照组。
 
 @ref de Groot, A. D. (1965). *Thought and choice in chess*. The Hague: Mouton.（荷兰文原版 1946 年）使用限度：只引用记忆复原实验的一般结论；具体呈现时长与准确率未据原书核对。
 
-@ref Deutsch, D. (2011). *The beginning of infinity*. 使用限度：本文引用其“难以变动”的解释标准，并在第八节说明本文尚未满足这一标准。
+@ref Deutsch, D. (2011). *The beginning of infinity: Explanations that transform the world*. London: Allen Lane. 使用限度：本文引用其“难以变动”的解释标准，并在第八节说明本文尚未满足这一标准。
 
 @ref Dietrich, A. (2004). Neurocognitive mechanisms underlying the experience of flow. *Consciousness and Cognition, 13*(4), 746–761. https://doi.org/10.1016/j.concog.2004.07.002 使用限度：理论假说，只作为候选机制之一。
 
@@ -100,11 +102,11 @@
 
 @ref Fitts, P. M., & Posner, M. I. (1967). *Human performance*. Belmont, CA: Brooks/Cole. 使用限度：阶段描述是描述性的。
 
-@ref Fox, K. C. R., et al. (2016). Functional neuroanatomy of meditation: A review and meta-analysis of 78 functional neuroimaging investigations. *Neuroscience & Biobehavioral Reviews, 65*, 208–228. 使用限度：作为不同冥想形式需要分别分析的背景。
+@ref Fox, K. C. R., et al. (2016). Functional neuroanatomy of meditation: A review and meta-analysis of 78 functional neuroimaging investigations. *Neuroscience & Biobehavioral Reviews, 65*, 208–228. https://doi.org/10.1016/j.neubiorev.2016.03.021 使用限度：作为不同冥想形式需要分别分析的背景。
 
 @ref Frensch, P. A., & Sternberg, R. J. (1989). Expertise and intelligent thinking: When is it worse to know better? In R. J. Sternberg (Ed.), *Advances in the psychology of human intelligence* (Vol. 5, pp. 157–188). Hillsdale, NJ: Lawrence Erlbaum. 使用限度：只引用其问题的表述。
 
-@ref Friston, K. (2010). The free-energy principle: A unified brain theory? *Nature Reviews Neuroscience*. 使用限度：用于第六节对自由能原理的概述。
+@ref Friston, K. (2010). The free-energy principle: A unified brain theory? *Nature Reviews Neuroscience, 11*, 127–138. https://doi.org/10.1038/nrn2787 使用限度：用于第六节对自由能原理的概述。
 
 @ref Gallagher, S. (2000). Philosophical conceptions of the self: Implications for cognitive science. *Trends in Cognitive Sciences, 4*, 14–21. https://doi.org/10.1016/S1364-6613(99)01417-5 使用限度：只用于最小自我与叙事自我的区分。
 
@@ -112,27 +114,29 @@
 
 @ref Hambrick, D. Z., Macnamara, B. N., & Oswald, F. L. (2020). Is the deliberate practice view defensible? A review of evidence and discussion of issues. *Frontiers in Psychology, 11*, 1134. https://doi.org/10.3389/fpsyg.2020.01134 使用限度：作者在此使用了勘误后的数值。
 
-@ref He, Q., Liu, Y., & Yang, Y. (2024). *Scientific Reports, 14*, 5182. https://doi.org/10.1038/s41598-024-55716-z（题名待补；静眼训练与压力下高尔夫推杆的研究）使用限度：22 名青少年运动员，两周干预；有组别 × 时间交互作用，后测组间简单效应不显著；未测量自我关系配置。
+@ref He, Q., Liu, Y., & Yang, Y. (2024). The effect of quiet eye training on golf putting performance in pressure situation. *Scientific Reports, 14*, 5182. https://doi.org/10.1038/s41598-024-55716-z 使用限度：22 名青少年球员，两周干预；命中率与状态焦虑上有组别 × 时间交互作用；未测量自我关系配置。
 
 @ref Hodgson, R. T. (2008). An examination of judge reliability at a major U.S. wine competition. *Journal of Wine Economics, 3*(2), 105–113. https://doi.org/10.1017/S1931436100001152 使用限度：只用于说明重复一致性需要实测。
 
-@ref Hodson, R., Mehta, M., & Smith, R. (2024). The empirical status of predictive coding and active inference. *Neuroscience & Biobehavioral Reviews*. 使用限度：用于评估预测编码的实证支持程度。
+@ref Hodson, R., Mehta, M., & Smith, R. (2024). The empirical status of predictive coding and active inference. *Neuroscience & Biobehavioral Reviews, 157*, 105473. 使用限度：用于评估预测编码的实证支持程度。
 
-@ref Hohwy, J. (2013). *The predictive mind*. 使用限度：用于第六节对预测性加工各版本的概述。
+@ref Hohwy, J. (2013). *The predictive mind*. Oxford University Press. 使用限度：用于第六节对预测性加工各版本的概述。
 
-@ref Holtzheimer, P. E., et al. (2017). Subcallosal cingulate deep brain stimulation for treatment-resistant depression: A multisite, randomised, sham-controlled trial. *The Lancet Psychiatry*. 使用限度：只引用该试验在无效性分析后中止这一事实。
+@ref Holtzheimer, P. E., et al. (2017). Subcallosal cingulate deep brain stimulation for treatment-resistant depression: A multisite, randomised, sham-controlled trial. *The Lancet Psychiatry, 4*(11), 839–849. 使用限度：只引用该试验的设计与在中期无效性分析后中止这一事实。
 
 @ref Kahneman, D., & Klein, G. (2009). Conditions for intuitive expertise: A failure to disagree. *American Psychologist, 64*(6), 515–526. https://doi.org/10.1037/a0016755 使用限度：只引用环境的可预测性与学习机会这两个条件。
 
 @ref Kelly, A. M. C., & Garavan, H. (2005). Human functional neuroimaging of brain changes associated with practice. *Cerebral Cortex, 15*(8), 1089–1102. https://doi.org/10.1093/cercor/bhi005 使用限度：只用于说明练习相关的激活变化有多种形式。
 
+@ref Kemmerer, D. (2025). Does the default mode network mediate an ongoing internal narrative? An evaluation of Menon’s (2023) hypothesis. *Journal of Cognitive Neuroscience, 37*(12), 2676–2683. 使用限度：只引用其对“内部叙事”假说的批评要点。
+
 @ref Klein, G. (1998). *Sources of power: How people make decisions*. Cambridge, MA: MIT Press. 使用限度：消防指挥员个案来自事后访谈，个案选择偏向成功的例子。
 
-@ref Kuypers, K. P. C., et al. (2016). Ayahuasca enhances creative divergent thinking while decreasing conventional convergent thinking. *Psychopharmacology, 233*, 3395–3403. https://doi.org/10.1007/s00213-016-4377-8 使用限度：26 人的自然情境研究，没有随机的安慰剂对照。
+@ref Kuypers, K. P. C., et al. (2016). Ayahuasca enhances creative divergent thinking while decreasing conventional convergent thinking. *Psychopharmacology, 233*, 3395–3403. https://doi.org/10.1007/s00213-016-4377-8 使用限度：26 人的自然情境研究，测量在仪式前与急性作用期间进行，没有安慰剂对照。
 
-@ref Laukkonen, R. E., & Slagter, H. A. (2021). From many to (n)one: Meditation and the plasticity of the predictive mind. *Neuroscience & Biobehavioral Reviews*. 使用限度：理论建构。
+@ref Laukkonen, R. E., & Slagter, H. A. (2021). From many to (n)one: Meditation and the plasticity of the predictive mind. *Neuroscience & Biobehavioral Reviews, 128*, 199–217. https://doi.org/10.1016/j.neubiorev.2021.06.021 使用限度：理论建构。
 
-@ref Laukkonen, R. E., Friston, K., & Chandaria, S. (2025). A beautiful loop: An active inference theory of consciousness. 使用限度：理论建构。
+@ref Laukkonen, R. E., Friston, K., & Chandaria, S. (2025). A beautiful loop: An active inference theory of consciousness. *Neuroscience & Biobehavioral Reviews, 176*, 106296. https://doi.org/10.1016/j.neubiorev.2025.106296 使用限度：理论建构。
 
 @ref Lebeau, J.-C., et al. (2016). Quiet eye and performance in sport: A meta-analysis. *Journal of Sport & Exercise Psychology, 38*(5), 441–457. https://doi.org/10.1123/jsep.2015-0123 使用限度：效应量不等于成绩的百分比提升；专家差异不证明注视本身是原因。
 
@@ -142,13 +146,13 @@
 
 @ref Lindahl, J. R., Fisher, N. E., Cooper, D. J., Rosen, R. K., & Britton, W. B. (2017). The varieties of contemplative experience: A mixed-methods study of meditation-related challenges in Western Buddhists. *PLOS ONE, 12*(5), e0176239. https://doi.org/10.1371/journal.pone.0176239 使用限度：有目的抽样，用于识别困难体验的类型与背景，不能估计一般人群的发生率。
 
-@ref Litwin, P., & Miłkowski, M. (2020). Unification by fiat: Arrested development of predictive processing. *Cognitive Science*. 使用限度：只转述其论点的结构。
+@ref Litwin, P., & Miłkowski, M. (2020). Unification by fiat: Arrested development of predictive processing. *Cognitive Science, 44*(7), e12867. https://doi.org/10.1111/cogs.12867 使用限度：只转述其论点的结构。
 
 @ref Macnamara, B. N., Hambrick, D. Z., & Oswald, F. L. (2014). Deliberate practice and performance in music, games, sports, education, and professions: A meta-analysis. *Psychological Science, 25*(8), 1608–1618. https://doi.org/10.1177/0956797614535810 使用限度：统计值应与 2018 年勘误一并引用；研究集合中的相关不能拆分为个体层面的因果贡献。
 
 @ref Macnamara, B. N., Hambrick, D. Z., & Oswald, F. L. (2018). Corrigendum: Deliberate practice and performance in music, games, sports, education, and professions: A meta-analysis. *Psychological Science, 29*(7), 1202–1204. https://doi.org/10.1177/0956797618769891 使用限度：第三节的领域数值（24%、23%、20%、5%、1%，总体 14%）出自此勘误。
 
-@ref Mason, N. L., Mischler, E., Uthaug, M. V., & Kuypers, K. P. C. (2019). Sub-acute effects of psilocybin on empathy, creative thinking, and subjective well-being. *Journal of Psychoactive Drugs, 51*(2), 123–134. https://doi.org/10.1080/02791072.2019.1580804 使用限度：次急性期观察，不能用作急性期证据。
+@ref Mason, N. L., Mischler, E., Uthaug, M. V., & Kuypers, K. P. C. (2019). Sub-acute effects of psilocybin on empathy, creative thinking, and subjective well-being. *Journal of Psychoactive Drugs, 51*(2), 123–134. https://doi.org/10.1080/02791072.2019.1580804 使用限度：自然情境下的次急性期观察，没有安慰剂对照，不能用作急性期证据。
 
 @ref Mason, N. L., et al. (2021). Spontaneous and deliberate creative cognition during and after psilocybin exposure. *Translational Psychiatry, 11*, 209. https://doi.org/10.1038/s41398-021-01335-5 使用限度：主观洞见评分与客观任务指标的变化方向不同。
 
@@ -156,23 +160,23 @@
 
 @ref Mathys, C., Daunizeau, J., Friston, K. J., & Stephan, K. E. (2011). A Bayesian foundation for individual learning under uncertainty. *Frontiers in Human Neuroscience, 5*, 39. https://doi.org/10.3389/fnhum.2011.00039 使用限度：用于区分精度、学习率与层级不确定性；不验证本文关于定势或自我先验的应用。第三节的数值例子由本文构造。
 
-@ref Mayberg, H. S., et al. (2005). Deep brain stimulation for treatment-resistant depression. *Neuron*. 使用限度：早期小样本开放研究。
+@ref Mayberg, H. S., et al. (2005). Deep brain stimulation for treatment-resistant depression. *Neuron, 45*(5), 651–660. https://doi.org/10.1016/j.neuron.2005.02.014 使用限度：6 名患者的开放研究。
 
 @ref McKay, B., Corson, A. E., Seedu, J., De Faveri, C. S., Hasan, H., Arnold, K., Adams, F. C., & Carter, M. J. (2024). Reporting bias, not external focus: A robust Bayesian meta-analysis and systematic review of the external focus of attention literature. *Psychological Bulletin, 150*(11), 1347–1362. https://doi.org/10.1037/bul0000451 使用限度：校正偏倚之后，外部注意焦点的平均效应接近于零。
 
-@ref Menon, V. (2023). 20 years of the default mode network: A review and synthesis. *Neuron*. 使用限度：网络的定义、功能关联与整合假说应分别对待。
+@ref Menon, V. (2023). 20 years of the default mode network: A review and synthesis. *Neuron, 111*(16), 2469–2487. 使用限度：网络的定义、功能关联与整合假说应分别对待。
 
-@ref Metzinger, T. (2003). *Being no one: The self-model theory of subjectivity*. 使用限度：自我模型理论与透明性概念按其哲学归属引用。
+@ref Metzinger, T. (2003). *Being no one: The self-model theory of subjectivity*. Cambridge, MA: MIT Press. 使用限度：自我模型理论与透明性概念按其哲学归属引用。
 
-@ref Metzinger, T. (2009). *The ego tunnel: The science of the mind and the myth of the self*. 使用限度：同上。
+@ref Metzinger, T. (2009). *The ego tunnel: The science of the mind and the myth of the self*. New York: Basic Books. 使用限度：同上。
 
-@ref Montero, B. G. (2016). *Thought in action: Expertise and the conscious mind*. 使用限度：用于第四节对控制粒度的界定。
+@ref Montero, B. G. (2016). *Thought in action: Expertise and the conscious mind*. Oxford University Press. 使用限度：用于第四节对控制粒度的界定。
 
 @ref Nakamura, J., & Csikszentmihalyi, M. (2002). The concept of flow. In C. R. Snyder & S. J. Lopez (Eds.), *Handbook of positive psychology* (pp. 89–105). New York: Oxford University Press. 使用限度：用于区分心流的促进条件与体验特征。
 
-@ref National Center for Complementary and Integrative Health (NCCIH). *Meditation and mindfulness: Effectiveness and safety*. 使用限度：用于第十二节的安全边界，不替代个体的医疗判断。
+@ref National Center for Complementary and Integrative Health (NCCIH). *Meditation and mindfulness: Effectiveness and safety*. https://www.nccih.nih.gov/health/meditation-and-mindfulness-effectiveness-and-safety 使用限度：用于第十二节的安全边界，不替代个体的医疗判断。
 
-@ref Polanyi, M. (1958). *Personal knowledge: Towards a post-critical philosophy*. 使用限度：骑车例子只用于说明默会的能力；不直接支持神经层面的结论。
+@ref Polanyi, M. (1958). *Personal knowledge: Towards a post-critical philosophy*. Chicago: University of Chicago Press. 使用限度：骑车例子只用于说明默会的能力；不直接支持神经层面的结论。
 
 @ref Polanyi, M. (1966a). *The tacit dimension*. Garden City, NY: Doubleday. 使用限度：“我们知道的比我们能说出的多”按其哲学归属引用。
 
@@ -180,21 +184,21 @@
 
 @ref Poldrack, R. A. (2006). Can cognitive processes be inferred from neuroimaging data? *Trends in Cognitive Sciences, 10*(2), 59–63. https://doi.org/10.1016/j.tics.2005.12.004 使用限度：用于说明反向推断的限度。
 
-@ref Raichle, M. E., MacLeod, A. M., Snyder, A. Z., Powers, W. J., Gusnard, D. A., & Shulman, G. L. (2001). A default mode of brain function. *Proceedings of the National Academy of Sciences of the USA, 98*, 676–682. https://doi.org/10.1073/pnas.98.2.676 使用限度：用于默认模式网络研究的起点；网络概念的完整形成依赖此后的大量研究。
+@ref Raichle, M. E., MacLeod, A. M., Snyder, A. Z., Powers, W. J., Gusnard, D. A., & Shulman, G. L. (2001). A default mode of brain function. *Proceedings of the National Academy of Sciences of the USA, 98*(2), 676–682. https://doi.org/10.1073/pnas.98.2.676 使用限度：用于默认模式网络研究的起点；网络概念的完整形成依赖此后的大量研究。
 
 @ref Rao, R. P. N., & Ballard, D. H. (1999). Predictive coding in the visual cortex: A functional interpretation of some extra-classical receptive-field effects. *Nature Neuroscience, 2*, 79–87. https://doi.org/10.1038/4580 使用限度：预测编码的早期模型。
 
 @ref Sandved-Smith, L., Hesp, C., Mattout, J., Friston, K., Lutz, A., & Ramstead, M. J. D. (2021). Towards a computational phenomenology of mental action: Modelling meta-awareness and attentional control with deep parametric active inference. *Neuroscience of Consciousness, 2021*(1), niab018. https://doi.org/10.1093/nc/niab018 使用限度：计算模拟与架构构想，不构成跨领域共同控制者的经验证据。
 
-@ref Seth, A. (2021). *Being you: A new science of consciousness*. 使用限度：用于第六节对预测性加工各版本的概述。
+@ref Seth, A. (2021). *Being you: A new science of consciousness*. London: Faber & Faber. 使用限度：用于第六节对预测性加工各版本的概述。
 
-@ref Seth, A. K., Suzuki, K., & Critchley, H. D. (2012). An interoceptive predictive coding model of conscious presence. *Frontiers in Psychology*. 使用限度：建模方案，不是对患者参数的直接测量。
+@ref Seth, A. K., Suzuki, K., & Critchley, H. D. (2012). An interoceptive predictive coding model of conscious presence. *Frontiers in Psychology, 2*, 395. https://doi.org/10.3389/fpsyg.2011.00395 使用限度：建模方案，没有直接测量患者的参数。
 
 @ref Sheridan, H., & Reingold, E. M. (2013). The mechanisms and boundary conditions of the Einstellung effect in chess: Evidence from eye movements. *PLoS ONE, 8*(10), e75796. https://doi.org/10.1371/journal.pone.0075796 使用限度：用于定势效应的边界条件。
 
 @ref Soderstrom, N. C., & Bjork, R. A. (2015). Learning versus performance: An integrative review. *Perspectives on Psychological Science, 10*(2), 176–199. https://doi.org/10.1177/1745691615569000 使用限度：支持区分当前表现、延迟保持与迁移；不支持关于心流与学习关系的任何具体断言。
 
-@ref Tal, Wright, Prest, Sandved-Smith, & Sacchet. (2026). *Neuroscience & Biobehavioral Reviews, 182*, 106539（题名待补；高级冥想综述）。使用限度：理论综述，不构成机制证据。
+@ref Tal, H., Wright, M., Prest, S., Sandved-Smith, L., & Sacchet, M. D. (2026). Active inference, computational phenomenology, and advanced meditation: Toward the formalization of the experience of meditation. *Neuroscience & Biobehavioral Reviews, 182*, 106539. 使用限度：理论综述，不构成机制证据。
 
 @ref Wegner, D. M. (1994). Ironic processes of mental control. *Psychological Review, 101*(1), 34–52. 使用限度：理论与综述；具体的放松实验见下一条。
 
@@ -202,6 +206,6 @@
 
 @ref Wilson, R. C., & Collins, A. G. E. (2019). Ten simple rules for the computational modeling of behavioral data. *eLife, 8*, e49547. https://doi.org/10.7554/eLife.49547 使用限度：第十四节关于参数恢复与模型比较的要求依据此文；具体设计由本文提出。
 
-@ref Yang, W. F. Z., Chowdhury, A., Sparby, T., & Sacchet, M. D. (2025). *NeuroImage, 305*, 120968（题名待补；洞见过程中与自我相关变化的密集采样个案研究）。使用限度：密集采样个案，不能当作独立样本的重复。
+@ref Yang, W. F. Z., Chowdhury, A., Sparby, T., & Sacchet, M. D. (2025a). Deconstructing the self and reshaping perceptions: An intensive whole-brain 7T MRI case study of the stages of insight during advanced investigative insight meditation. *NeuroImage, 305*, 120968. 使用限度：密集采样个案，不能当作独立样本的重复。
 
-@ref 延长性中断的 7T 预印本（2025）. *bioRxiv*. https://doi.org/10.1101/2025.09.06.674021（作者与题名待补）使用限度：预印本，未经同行评审；所核版本含 3 名参与者，操作定义较宽，作者未断定它与传统教义概念的对应。
+@ref Yang, W. F. Z., Kadambi, A., Abellaneda-Pérez, K., Mackin, G., Beslic, I., Potash, R., Sparby, T., & Sacchet, M. D. (2025b). Endogenous suspension and reset of consciousness: 7T fMRI brain mapping of the extended cessation meditative endpoint. *bioRxiv*. https://doi.org/10.1101/2025.09.06.674021 使用限度：预印本，未经同行评审；3 名参与者的密集采样，研究对象的范围比传统的灭尽定更宽。
