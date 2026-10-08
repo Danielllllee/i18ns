@@ -57,8 +57,8 @@
 | IEEPA"芬太尼"+"对等" | 合计 20%（各 10%） | 最高法院 2026-02-20 裁定无效；CBP 自 2026-02-24 停征 | [GTA](https://globaltradealert.org/blog/from-ieepa-to-section-122); [BDO](https://www.bdo.com/insights/tax/supreme-court-invalidates-ieepa-tariffs-administration-replaces-with-new-surcharge-what-importers) |
 | 第 122 条（Proclamation 11012） | 10%（全球；15% 仅宣布未实施） | 2026-02-24 至 07-24 到期；CIT 2026-05-07 以 2–1 判越权（救济限原告，上诉中） | [Wiley](https://www.wiley.law/alert-Trump-Imposes-Section-122-Tariffs-After-Halting-IEEPA-Tariffs-Previews-New-Section-301-Investigations); [Skadden](https://www.skadden.com/insights/publications/2026/05/us-trade-court-strikes-down-section-122-tariffs) |
 | 301"强迫劳动"（2026） | 12.5%（约 60 个经济体 10–12.5%） | 2026-07-24 起生效 | [Covington, 2026-06](https://www.cov.com/en/news-and-insights/insights/2026/06/ustr-announces-findings-and-calls-for-comments-in-section-301-forced-labor-investigation); [TariffsTool](https://www.tariffstool.com/guides/section-122-tariff-rates-2026) |
-| 301（2018 清单 1–3 / 4A） | 25% / 7.5% | 有效；USTR 2026-10-06 决定延续（联邦公报 10-07）；约 178 项排除延至 11/9 或 11/10 | [KPMG, 2026-10](https://kpmg.com/us/en/taxnewsflash/news/2026/10/ustr-china-section-301-actions-product-exclusion.html); [FR 2026-10-07](https://www.govinfo.gov/content/pkg/FR-2026-10-07/pdf/2026-20510.pdf) |
-| 301（2024 四年审查加征） | 部分产品 25%–100% | 有效 | [Global Trade Alert S122 report](https://globaltradealert.org/reports/S122-US-Tariff-Estimates) |
+| 301（2018 清单 1–3 / 4A） | 25% / 7.5% | 有效；USTR 2026-10-06 决定延续（联邦公报 10-07）；约 178 项排除延至 11/9 或 11/10 | [KPMG, 2026-10](https://kpmg.com/us/en/taxnewsflash/news/2026/10/ustr-china-section-301-actions-product-exclusion.html); [FR 2026-10-07](https://www.govinfo.gov/content/pkg/FR-2026-10-07/pdf/2026-20510.pdf); [The Tariff Desk China tracker](https://www.thetariffdesk.com/tools/china-tariff-tracker) |
+| 301（2024 四年审查加征） | 部分产品 25%–100% | 有效（据 9 月关税追踪器） | [The Tariff Desk China tracker](https://www.thetariffdesk.com/tools/china-tariff-tracker); [Airlift USA](https://airliftusa.com/tariff-updates/section-301) |
 | 301"结构性产能过剩"（2026-03 启动，16 经济体） | 传对华有效 7.5% | 未落地；Greer 10 月初称"数周内" | [FR 2026-03-17](https://www.federalregister.gov/documents/2026/03/17/2026-05214/initiation-of-section-301-investigations-acts-policies-and-practices-of-certain-economies-relating); [Yahoo/Bloomberg](https://finance.yahoo.com/economy/policy/articles/us-plans-7-5-china-161734641.html); [Seoul Economic Daily, 2026-10-02](https://en.sedaily.com/international/2026/10/02/us-vows-action-on-overcapacity-within-weeks) |
 | 301"第一阶段协议执行"（2025-10-24 启动） | — | 仍开放，未见裁定 | [USTR, 2025-10](https://ustr.gov/about/policy-offices/press-office/press-releases/2025/october/ustr-initiates-section-301-investigation-chinas-implementation-phase-one-agreement) |
 | 301 半导体（成熟制程） | — | 2026-01 肯定性裁定；救济推迟 | [Thompson Hine, 2026-01](https://www.thompsonhinesmartrade.com/2026/01/ustr-issues-affirmative-determination-in-china-semiconductor-section-301-investigation/); [CRS IF12125](https://www.congress.gov/crs_external_products/IF/PDF/IF12125/IF12125.10.pdf) |
@@ -219,7 +219,7 @@
 - 20 个月累计升值近 9% — [IDN Financials](https://www.idnfinancials.com/news/68151/is-china-curbing-the-yuans-appreciation)
 - 12 家国际投行中位预测约 6.68（发布时间不明）— [SCMP](https://www.scmp.com/economy/china-economy/article/3354323/chinas-yuan-hits-3-year-high-as-global-banks-issue-bullish-forecasts)
 
-#### 3b. PBOC 中间价行为（"逆周期因子"式控速）
+#### 3b. PBOC 中间价行为（中间价持续弱于模型预估 = 控速迹象；是否动用"逆周期因子"未见来源确认）
 - 2026-07-10 中间价 6.7989，2023 年以来首次强于 6.80 — [Bloomberg, 2026-07-10](https://www.bloomberg.com/news/articles/2026-07-10/pboc-sets-fixing-below-6-8-per-dollar-for-first-time-since-2023-mre95kva)
 - 2026-07-31 中间价 6.7894，远弱于预期，意在放缓升值（人民币当时触及三年高位）— [Bloomberg, 2026-07-31](https://www.bloomberg.com/news/articles/2026-07-31/pboc-s-weaker-daily-fixing-to-temper-yuan-gains-analysts-say)
 - 8/17 中间价 6.7873（路透预估 6.7382）；9/3 为 6.7807（预估 6.7167）（Tradingpedia 页面质量较差，需核对）— [Tradingpedia, 2026-08-17](https://www.tradingpedia.com/2026/08/17/pboc-marginally-lowers-daily-yuan-fix-against-the-dollar/); [Tradingpedia, 2026-09-03](https://www.tradingpedia.com/2026/09/03/pboc-nudges-yuan-fix-stronger-against-dollar/)
@@ -248,7 +248,7 @@
 - ING 将 2026 年人民币强势主要归因于出口商结汇 — [ING](https://think.ing.com/articles/cny-at-a-glance-tightening-our-forecast-band-for-2h26/)
 
 #### 3e. 外汇储备与黄金（2026-10-07 发布）
-- 9 月末外储约 3.4 万亿美元，较 8 月减少 381 亿美元（−1.11%），外汇局归因于美元指数走强与全球资产价格下跌的估值效应（精确值未获；按笔者推算 8 月末约 3.432 万亿、9 月末约 3.394 万亿美元）— [BigGo Finance](https://finance.biggo.com/news/de5361b8-8fbf-4d32-947a-9df28ce9f375)
+- 9 月末外储约 3.4 万亿美元，较 8 月减少 381 亿美元（−1.11%），外汇局归因于美元指数走强与全球资产价格下跌的估值效应（精确值未获；按笔者推算 8 月末约 3.432 万亿、9 月末约 3.394 万亿美元；数字来自多篇二手报道的检索综述，未取得外汇局原文）— [BigGo Finance](https://finance.biggo.com/news/de5361b8-8fbf-4d32-947a-9df28ce9f375); [BigGo Finance](https://finance.biggo.com/news/304bf858-9886-4e9d-a807-275ee78a0680); [Kitco, 2026-10-07](https://www.kitco.com/news/article/2026-10-07/chinas-central-bank-buys-21-tonnes-gold-september-largest-monthly-purchase)
 - 黄金：9 月末 7,747 万盎司（约 2,410 吨），9 月增持 74 万盎司（约 23 吨），**连续第 23 个月**增持（自 2024-11 恢复）；8 月末 7,673 万盎司；黄金储备价值由 3,501 亿美元降至 3,235 亿美元 — [BigGo Finance](https://finance.biggo.com/news/7ec1bcf4-a98b-41f3-9e92-6b875057f0db); [BigGo Finance](https://finance.biggo.com/news/304bf858-9886-4e9d-a807-275ee78a0680)
 - 冲突：Kitco 称 9 月增持 21 吨、总量 2,196 吨，与盎司数不一致；对"9 月增量是否为三年最大/恢复以来最大/3 月以来最大"各源说法不一 — [Kitco, 2026-10-07](https://www.kitco.com/news/article/2026-10-07/chinas-central-bank-buys-21-tonnes-gold-september-largest-monthly-purchase)
 - 内部不一致（笔者核算）：按价值/盎司推算，金价 9 月约由 4,563 降至 4,176 美元/盎司（约 −8.5%），与报道的"−6.52%"不符。
@@ -376,7 +376,7 @@
 - 布伦特：10/8 约 102.9 美元（前收 100.2）至 105 美元以上（单日 +约 4.8%）；52 周区间约 59–126 美元；9 月初以来多在 100 美元以上，比战前高约 30 美元（主要为运费与战争风险溢价，库存偏低）— [Oilprice.com](https://oilprice.com/Latest-Energy-News/World-News/Oil-Jumps-2-as-Iran-Steps-Up-Attacks-on-Hormuz-Tankers.html); [Yahoo Finance](https://finance.yahoo.com/markets/article/oil-prices-climb-above-100-on-strait-of-hormuz-attacks-gulf-storm-threat-122612488.html); [Trading Economics](https://tradingeconomics.com/commodity/brent-crude-oil)
 - 伊朗战争时间线：2/28 美以空袭开始、伊朗封锁霍尔木兹；3/19 美军打击以重开海峡；4/7–8 巴基斯坦斡旋停火；4 月中美国对伊朗港口实施海上封锁；6/17 签署结束战争协议；7/8 伊朗袭击商船、冲突恢复；9 月下旬各自与调停方接触，美方拒绝伊方条件；10/3–4 三艘油轮遇袭，10 月已有至少 9 起袭击 — [Wikipedia: 2026 Iran war](https://en.wikipedia.org/wiki/2026_Iran_war); [Wikipedia: 2026 Iran war ceasefire](https://en.wikipedia.org/wiki/2026_Iran_war_ceasefire); [CNBC, 2026-09-29](https://www.cnbc.com/2026/09/29/us-iran-war-trump-hormuz-.html); [CNBC, 2026-10-07](https://www.cnbc.com/2026/10/07/us-iran-war-trump-hormuz.html)
 - 10/6 联合国秘书长在伊斯兰堡呼吁停火 — [UN News, 2026-10](https://news.un.org/en/story/2026/10/1168532)
-- 胡塞武装袭击沙特拉比格炼厂，沙特首次海上炮击胡塞港口（第二个海峡风险）— [Oilprice.com](https://oilprice.com/Energy/Oil-Prices/Why-100-Oil-Is-Hard-to-Kill.html)
+- 胡塞武装袭击沙特拉比格炼厂，沙特首次海上炮击胡塞港口（第二个海峡风险）（据 Oilprice.com 10 月报道的检索综述，具体文章归属未能逐一核对）— [Oilprice.com](https://oilprice.com/Energy/Oil-Prices/Why-100-Oil-Is-Hard-to-Kill.html)
 - 对中国的直接影响：3 月出口增速降至 +2.5%（霍尔木兹封锁）；7 月原油进口金额 −4.6% — [Fortune, 2026-04-14](https://fortune.com/2026/04/14/china-march-exports-iran-war-oil-crisis/); [China-Global South](https://chinaglobalsouth.com/2026/08/07/china-exports-july-2026-ai-high-tech-demand/)
 - 黄金 9 月下跌（由 PBOC 黄金储备估值推算约 −7% 至 −8.5%，见第 3 节）；铜、铁矿石价格本轮未获取。
 
